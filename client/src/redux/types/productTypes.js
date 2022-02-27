@@ -1,0 +1,14 @@
+export const GET_ALL = "GET_ALL";
+export const ADD_PRODUCT = "ADD_PRODUCT";
+export const REMOVE_PRODUCT = "REMOVE_PRODUCT";
+export const USER_POSTS = "USER_POSTS";
+export const LIKE_UNLIKE_PRODUCT = "LIKE_UNLIKE_PRODUCT";
+export const MOST_LIKED_POSTS = "MOST_LIKED_POSTS";
+export const ADD_LIKE = "ADD_LIKE";
+export const POST_ERROR = "POST_ERROR";
+export const ADD_DELETE_COMMENT = "ADD_DELETE_COMMENENT";
+export const ADD_COMMENT = "ADD_COMMENT";
+export const SEARCH_TOPICS = "SEARCH_TOPICS";
+export const THE_MOST_RECENT_POSTS = "THE_MOST_RECENT_POSTS";
+export const MOST_COMMENTED = "MOST_COMMENTED";
+export const GET_POST = "GET_POST";
